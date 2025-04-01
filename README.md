@@ -9,7 +9,7 @@
 
 using namespace std;
 typedef long long ll;
-ll MOD = 1000000007
+ll MOD = 1000000007;
 
 void solve() {
 
@@ -20,7 +20,7 @@ int main() {
     // int test_cases = 1;
     cin >> test_cases;
     while (test_cases--) {
-        solve()
+        solve();
     }
 }
 ```
