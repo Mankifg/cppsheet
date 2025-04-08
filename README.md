@@ -6,6 +6,7 @@
 #include<cmath>
 #include<algorithm>
 #include<string>
+#include <vector>
 
 using namespace std;
 typedef long long ll;
@@ -17,7 +18,7 @@ void solve() {
 
 int main() {
     ll test_cases;
-    // int test_cases = 1;
+    // test_cases = 1;
     cin >> test_cases;
     while (test_cases--) {
         solve();
