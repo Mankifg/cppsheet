@@ -6,7 +6,7 @@
 #include<cmath>
 #include<algorithm>
 #include<string>
-#include <vector>
+#include<vector>
 
 using namespace std;
 typedef long long ll;
