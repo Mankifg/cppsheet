@@ -25,4 +25,13 @@ int main() {
     }
 }
 ```
+### FILE read/write
 
+```cpp
+void setIO(string s) {
+	freopen((s + ".in").c_str(), "r", stdin);
+	freopen((s + ".out").c_str(), "w", stdout);
+}
+setIO("problemname");
+
+```
