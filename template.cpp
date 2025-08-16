@@ -15,8 +15,12 @@ void solve() {
 
 int main() {
     ll test_cases;
-    // test_cases = 1;
+    test_cases = 1;
     cin >> test_cases;
+
+    //freopen("problem.in", "r", stdin);
+	//freopen("problem.out", "w", stdout);
+
     while (test_cases--) {
         solve();
     }
