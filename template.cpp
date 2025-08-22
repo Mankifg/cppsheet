@@ -7,6 +7,7 @@
 
 using namespace std;
 typedef long long ll;
+typedef vector<int> vi;
 ll MOD = 1000000007;
 
 void solve() {
@@ -14,6 +15,9 @@ void solve() {
 }
 
 int main() {
+    cin.sync_with_stdio(false);
+    cin.tie(NULL);
+
     ll test_cases;
     test_cases = 1;
     cin >> test_cases;
