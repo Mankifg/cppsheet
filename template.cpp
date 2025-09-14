@@ -1,8 +1,3 @@
-/*
-Author: Mankifg
-Date: [DATE]
-*/
-
 #include<bits/stdc++.h>
 
 using namespace std;
