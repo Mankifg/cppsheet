@@ -2,8 +2,8 @@
 using namespace std;
 #define ll long long
 #define str string
-#define fs first
-#define se second
+#define ff first
+#define ss second
 #define pb push_back
 #define all(x) (x).begin(),(x).end()
 typedef vector<int> vi;
@@ -25,6 +25,12 @@ int main() {
     cin >> test_cases;
 
     while (test_cases--) {
+
+        #ifdef MANKIFG
+            cout << "---" << endl;
+        #endif
+
+
         mankifg();
     }
 }
