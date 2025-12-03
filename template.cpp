@@ -7,13 +7,13 @@ using namespace std;
 #define pb push_back
 #define all(x) (x).begin(),(x).end()
 #define int long long
-typedef vector<int> vi;
+typedef vector<ll> vi;
 
 void mankifg() {
 
 }
 
-int main() {
+int32 main() {
     cin.sync_with_stdio(false);
     cin.tie(NULL);
 
