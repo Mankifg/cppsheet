@@ -6,10 +6,10 @@ using namespace std;
 #define ss second
 #define pb push_back
 #define all(x) (x).begin(),(x).end()
+#define int long long
 typedef vector<int> vi;
 
 void mankifg() {
-
 
 }
 
